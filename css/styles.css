@@ -125,3 +125,10 @@ a:hover{
   font-size: .75rem;
   padding: 20px 0;
 }
+.head{
+  margin-bottom: 0;
+}
+.para{
+  margin-top: 0;
+}
+
